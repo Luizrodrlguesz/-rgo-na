@@ -18,7 +18,7 @@ Programa gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src="preview.jpg" width="100%">
+  <img alt="Projeto Devlinks" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
